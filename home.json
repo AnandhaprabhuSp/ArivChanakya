@@ -1,0 +1,454 @@
+{
+	"assets": [
+		{	
+			"C":"Basics",
+			"Q": "Advantages of React Components",
+			"A": "Code Re-usability – A component-based approach makes your application development easier and faster. If you want to use a pre-existing functionality in your code, you can just put that code in yours instead of building it from scratch. It also allows your application architecture to stay up to date over time as you can update the specific areas which need up-gradations.",
+			"I": ""
+		},
+		{
+			"C":"Basics",			
+			"Q": "Props",
+			"A": "As we already know, the react components arrange the UI in the form of a tree where the parent component becomes the root and child components become branches and sub-branches. Now suppose parent component wants to send data to one of its deeply nested components.",
+			"I": ""
+		},
+		{
+			"C":"Basics",
+			"Q": "React Component Lifecycle",
+			"A": "React provides various methods which notify when a certain stage in the lifecycle of a component occurs. These methods are called the lifecycle methods. ",
+			"I": ""
+		},
+		{
+			"C":"Basics",			
+			"Q": "Advantages of React Components",
+			"A": "Code Re-usability – A component-based approach makes your application development easier and faster. If you want to use a pre-existing functionality in your code, you can just put that code in yours instead of building it from scratch. It also allows your application architecture to stay up to date over time as you can update the specific areas which need up-gradations.",
+			"I": ""
+		},
+		{
+			"C":"Basics",
+			"Q": "Props",
+			"A": "As we already know, the react components arrange the UI in the form of a tree where the parent component becomes the root and child components become branches and sub-branches. Now suppose parent component wants to send data to one of its deeply nested components.",
+			"I": ""
+		},
+		{
+			"C":"Basics",
+			"Q": "React Component Lifecycle",
+			"A": "React provides various methods which notify when a certain stage in the lifecycle of a component occurs. These methods are called the lifecycle methods. ",
+			"I": ""
+		},
+		{
+			"C":"Basics",
+			"Q": "Advantages of React Components",
+			"A": "Code Re-usability – A component-based approach makes your application development easier and faster. If you want to use a pre-existing functionality in your code, you can just put that code in yours instead of building it from scratch. It also allows your application architecture to stay up to date over time as you can update the specific areas which need up-gradations.",
+			"I": ""
+		},
+		{
+			"C":"Basics",
+			"Q": "Props",
+			"A": "As we already know, the react components arrange the UI in the form of a tree where the parent component becomes the root and child components become branches and sub-branches. Now suppose parent component wants to send data to one of its deeply nested components.",
+			"I": ""
+		},
+		{
+			"C":"Basics",
+			"Q": "React Component Lifecycle",
+			"A": "React provides various methods which notify when a certain stage in the lifecycle of a component occurs. These methods are called the lifecycle methods. ",
+			"I": ""
+		},
+		{
+			"C":"Basics",
+			"Q": "Advantages of React Components",
+			"A": "Code Re-usability – A component-based approach makes your application development easier and faster. If you want to use a pre-existing functionality in your code, you can just put that code in yours instead of building it from scratch. It also allows your application architecture to stay up to date over time as you can update the specific areas which need up-gradations.",
+			"I": ""
+		},
+		{
+			"C":"Basics",
+			"Q": "Props",
+			"A": "As we already know, the react components arrange the UI in the form of a tree where the parent component becomes the root and child components become branches and sub-branches. Now suppose parent component wants to send data to one of its deeply nested components.",
+			"I": ""
+		},
+		{
+			"C":"Basics",
+			"Q": "React Component Lifecycle",
+			"A": "React provides various methods which notify when a certain stage in the lifecycle of a component occurs. These methods are called the lifecycle methods. ",
+			"I": ""
+		},
+		{
+			"C":"Basics",
+			"Q": "Advantages of React Components",
+			"A": "Code Re-usability – A component-based approach makes your application development easier and faster. If you want to use a pre-existing functionality in your code, you can just put that code in yours instead of building it from scratch. It also allows your application architecture to stay up to date over time as you can update the specific areas which need up-gradations.",
+			"I": ""
+		},
+		{
+			"C":"Basics",
+			"Q": "Props",
+			"A": "As we already know, the react components arrange the UI in the form of a tree where the parent component becomes the root and child components become branches and sub-branches. Now suppose parent component wants to send data to one of its deeply nested components.",
+			"I": ""
+		},
+		{
+			"C":"Intermediate",
+			"Q": "React Component Lifecycle",
+			"A": "React provides various methods which notify when a certain stage in the lifecycle of a component occurs. These methods are called the lifecycle methods. ",
+			"I": ""
+		},{	
+			"C":"Intermediate",
+			"Q": "Advantages of React Components",
+			"A": "Code Re-usability – A component-based approach makes your application development easier and faster. If you want to use a pre-existing functionality in your code, you can just put that code in yours instead of building it from scratch. It also allows your application architecture to stay up to date over time as you can update the specific areas which need up-gradations.",
+			"I": ""
+		},
+		{
+			"C":"Intermediate",			
+			"Q": "Props",
+			"A": "As we already know, the react components arrange the UI in the form of a tree where the parent component becomes the root and child components become branches and sub-branches. Now suppose parent component wants to send data to one of its deeply nested components.",
+			"I": ""
+		},
+		{
+			"C":"Intermediate",
+			"Q": "React Component Lifecycle",
+			"A": "React provides various methods which notify when a certain stage in the lifecycle of a component occurs. These methods are called the lifecycle methods. ",
+			"I": ""
+		},
+		{
+			"C":"Intermediate",			
+			"Q": "Advantages of React Components",
+			"A": "Code Re-usability – A component-based approach makes your application development easier and faster. If you want to use a pre-existing functionality in your code, you can just put that code in yours instead of building it from scratch. It also allows your application architecture to stay up to date over time as you can update the specific areas which need up-gradations.",
+			"I": ""
+		},
+		{
+			"C":"Intermediate",
+			"Q": "Props",
+			"A": "As we already know, the react components arrange the UI in the form of a tree where the parent component becomes the root and child components become branches and sub-branches. Now suppose parent component wants to send data to one of its deeply nested components.",
+			"I": ""
+		},
+		{
+			"C":"Intermediate",
+			"Q": "React Component Lifecycle",
+			"A": "React provides various methods which notify when a certain stage in the lifecycle of a component occurs. These methods are called the lifecycle methods. ",
+			"I": ""
+		},
+		{
+			"C":"Intermediate",
+			"Q": "Advantages of React Components",
+			"A": "Code Re-usability – A component-based approach makes your application development easier and faster. If you want to use a pre-existing functionality in your code, you can just put that code in yours instead of building it from scratch. It also allows your application architecture to stay up to date over time as you can update the specific areas which need up-gradations.",
+			"I": ""
+		},
+		{
+			"C":"Intermediate",
+			"Q": "Props",
+			"A": "As we already know, the react components arrange the UI in the form of a tree where the parent component becomes the root and child components become branches and sub-branches. Now suppose parent component wants to send data to one of its deeply nested components.",
+			"I": ""
+		},
+		{
+			"C":"Intermediate",
+			"Q": "React Component Lifecycle",
+			"A": "React provides various methods which notify when a certain stage in the lifecycle of a component occurs. These methods are called the lifecycle methods. ",
+			"I": ""
+		},
+		{
+			"C":"Intermediate",
+			"Q": "Advantages of React Components",
+			"A": "Code Re-usability – A component-based approach makes your application development easier and faster. If you want to use a pre-existing functionality in your code, you can just put that code in yours instead of building it from scratch. It also allows your application architecture to stay up to date over time as you can update the specific areas which need up-gradations.",
+			"I": ""
+		},
+		{
+			"C":"Intermediate",
+			"Q": "Props",
+			"A": "As we already know, the react components arrange the UI in the form of a tree where the parent component becomes the root and child components become branches and sub-branches. Now suppose parent component wants to send data to one of its deeply nested components.",
+			"I": ""
+		},
+		{
+			"C":"Intermediate",
+			"Q": "React Component Lifecycle",
+			"A": "React provides various methods which notify when a certain stage in the lifecycle of a component occurs. These methods are called the lifecycle methods. ",
+			"I": ""
+		},
+		{
+			"C":"Intermediate",
+			"Q": "Advantages of React Components",
+			"A": "Code Re-usability – A component-based approach makes your application development easier and faster. If you want to use a pre-existing functionality in your code, you can just put that code in yours instead of building it from scratch. It also allows your application architecture to stay up to date over time as you can update the specific areas which need up-gradations.",
+			"I": ""
+		},
+		{
+			"C":"Intermediate",
+			"Q": "Props",
+			"A": "As we already know, the react components arrange the UI in the form of a tree where the parent component becomes the root and child components become branches and sub-branches. Now suppose parent component wants to send data to one of its deeply nested components.",
+			"I": ""
+		},
+		{
+			"C":"Advanced",
+			"Q": "React Component Lifecycle",
+			"A": "React provides various methods which notify when a certain stage in the lifecycle of a component occurs. These methods are called the lifecycle methods. ",
+			"I": ""
+		},{	
+			"C":"Advanced",
+			"Q": "Advantages of React Components",
+			"A": "Code Re-usability – A component-based approach makes your application development easier and faster. If you want to use a pre-existing functionality in your code, you can just put that code in yours instead of building it from scratch. It also allows your application architecture to stay up to date over time as you can update the specific areas which need up-gradations.",
+			"I": ""
+		},
+		{
+			"C":"Advanced",			
+			"Q": "Props",
+			"A": "As we already know, the react components arrange the UI in the form of a tree where the parent component becomes the root and child components become branches and sub-branches. Now suppose parent component wants to send data to one of its deeply nested components.",
+			"I": ""
+		},
+		{
+			"C":"Advanced",
+			"Q": "React Component Lifecycle",
+			"A": "React provides various methods which notify when a certain stage in the lifecycle of a component occurs. These methods are called the lifecycle methods. ",
+			"I": ""
+		},
+		{
+			"C":"Advanced",			
+			"Q": "Advantages of React Components",
+			"A": "Code Re-usability – A component-based approach makes your application development easier and faster. If you want to use a pre-existing functionality in your code, you can just put that code in yours instead of building it from scratch. It also allows your application architecture to stay up to date over time as you can update the specific areas which need up-gradations.",
+			"I": ""
+		},
+		{
+			"C":"Advanced",
+			"Q": "Props",
+			"A": "As we already know, the react components arrange the UI in the form of a tree where the parent component becomes the root and child components become branches and sub-branches. Now suppose parent component wants to send data to one of its deeply nested components.",
+			"I": ""
+		},
+		{
+			"C":"Advanced",
+			"Q": "React Component Lifecycle",
+			"A": "React provides various methods which notify when a certain stage in the lifecycle of a component occurs. These methods are called the lifecycle methods. ",
+			"I": ""
+		},
+		{
+			"C":"Advanced",
+			"Q": "Advantages of React Components",
+			"A": "Code Re-usability – A component-based approach makes your application development easier and faster. If you want to use a pre-existing functionality in your code, you can just put that code in yours instead of building it from scratch. It also allows your application architecture to stay up to date over time as you can update the specific areas which need up-gradations.",
+			"I": ""
+		},
+		{
+			"C":"Advanced",
+			"Q": "Props",
+			"A": "As we already know, the react components arrange the UI in the form of a tree where the parent component becomes the root and child components become branches and sub-branches. Now suppose parent component wants to send data to one of its deeply nested components.",
+			"I": ""
+		},
+		{
+			"C":"Advanced",
+			"Q": "React Component Lifecycle",
+			"A": "React provides various methods which notify when a certain stage in the lifecycle of a component occurs. These methods are called the lifecycle methods. ",
+			"I": ""
+		},
+		{
+			"C":"Advanced",
+			"Q": "Advantages of React Components",
+			"A": "Code Re-usability – A component-based approach makes your application development easier and faster. If you want to use a pre-existing functionality in your code, you can just put that code in yours instead of building it from scratch. It also allows your application architecture to stay up to date over time as you can update the specific areas which need up-gradations.",
+			"I": ""
+		},
+		{
+			"C":"Advanced",
+			"Q": "Props",
+			"A": "As we already know, the react components arrange the UI in the form of a tree where the parent component becomes the root and child components become branches and sub-branches. Now suppose parent component wants to send data to one of its deeply nested components.",
+			"I": ""
+		},
+		{
+			"C":"Advanced",
+			"Q": "React Component Lifecycle",
+			"A": "React provides various methods which notify when a certain stage in the lifecycle of a component occurs. These methods are called the lifecycle methods. ",
+			"I": ""
+		},
+		{
+			"C":"Advanced",
+			"Q": "Advantages of React Components",
+			"A": "Code Re-usability – A component-based approach makes your application development easier and faster. If you want to use a pre-existing functionality in your code, you can just put that code in yours instead of building it from scratch. It also allows your application architecture to stay up to date over time as you can update the specific areas which need up-gradations.",
+			"I": ""
+		},
+		{
+			"C":"Advanced",
+			"Q": "Props",
+			"A": "As we already know, the react components arrange the UI in the form of a tree where the parent component becomes the root and child components become branches and sub-branches. Now suppose parent component wants to send data to one of its deeply nested components.",
+			"I": ""
+		},
+		{
+			"C":"Advanced",
+			"Q": "React Component Lifecycle",
+			"A": "React provides various methods which notify when a certain stage in the lifecycle of a component occurs. These methods are called the lifecycle methods. ",
+			"I": ""
+		},{	
+			"C":"Advanced",
+			"Q": "Advantages of React Components",
+			"A": "Code Re-usability – A component-based approach makes your application development easier and faster. If you want to use a pre-existing functionality in your code, you can just put that code in yours instead of building it from scratch. It also allows your application architecture to stay up to date over time as you can update the specific areas which need up-gradations.",
+			"I": ""
+		},
+		{
+			"C":"Advanced",			
+			"Q": "Props",
+			"A": "As we already know, the react components arrange the UI in the form of a tree where the parent component becomes the root and child components become branches and sub-branches. Now suppose parent component wants to send data to one of its deeply nested components.",
+			"I": ""
+		},
+		{
+			"C":"Advanced",
+			"Q": "React Component Lifecycle",
+			"A": "React provides various methods which notify when a certain stage in the lifecycle of a component occurs. These methods are called the lifecycle methods. ",
+			"I": ""
+		},
+		{
+			"C":"Advanced",			
+			"Q": "Advantages of React Components",
+			"A": "Code Re-usability – A component-based approach makes your application development easier and faster. If you want to use a pre-existing functionality in your code, you can just put that code in yours instead of building it from scratch. It also allows your application architecture to stay up to date over time as you can update the specific areas which need up-gradations.",
+			"I": ""
+		},
+		{
+			"C":"Advanced",
+			"Q": "Props",
+			"A": "As we already know, the react components arrange the UI in the form of a tree where the parent component becomes the root and child components become branches and sub-branches. Now suppose parent component wants to send data to one of its deeply nested components.",
+			"I": ""
+		},
+		{
+			"C":"Advanced",
+			"Q": "React Component Lifecycle",
+			"A": "React provides various methods which notify when a certain stage in the lifecycle of a component occurs. These methods are called the lifecycle methods. ",
+			"I": ""
+		},
+		{
+			"C":"Advanced",
+			"Q": "Advantages of React Components",
+			"A": "Code Re-usability – A component-based approach makes your application development easier and faster. If you want to use a pre-existing functionality in your code, you can just put that code in yours instead of building it from scratch. It also allows your application architecture to stay up to date over time as you can update the specific areas which need up-gradations.",
+			"I": ""
+		},
+		{
+			"C":"Advanced",
+			"Q": "Props",
+			"A": "As we already know, the react components arrange the UI in the form of a tree where the parent component becomes the root and child components become branches and sub-branches. Now suppose parent component wants to send data to one of its deeply nested components.",
+			"I": ""
+		},
+		{
+			"C":"Advanced",
+			"Q": "React Component Lifecycle",
+			"A": "React provides various methods which notify when a certain stage in the lifecycle of a component occurs. These methods are called the lifecycle methods. ",
+			"I": ""
+		},
+		{
+			"C":"Advanced",
+			"Q": "Advantages of React Components",
+			"A": "Code Re-usability – A component-based approach makes your application development easier and faster. If you want to use a pre-existing functionality in your code, you can just put that code in yours instead of building it from scratch. It also allows your application architecture to stay up to date over time as you can update the specific areas which need up-gradations.",
+			"I": ""
+		},
+		{
+			"C":"Advanced",
+			"Q": "Props",
+			"A": "As we already know, the react components arrange the UI in the form of a tree where the parent component becomes the root and child components become branches and sub-branches. Now suppose parent component wants to send data to one of its deeply nested components.",
+			"I": ""
+		},
+		{
+			"C":"Advanced",
+			"Q": "React Component Lifecycle",
+			"A": "React provides various methods which notify when a certain stage in the lifecycle of a component occurs. These methods are called the lifecycle methods. ",
+			"I": ""
+		},
+		{
+			"C":"Advanced",
+			"Q": "Advantages of React Components",
+			"A": "Code Re-usability – A component-based approach makes your application development easier and faster. If you want to use a pre-existing functionality in your code, you can just put that code in yours instead of building it from scratch. It also allows your application architecture to stay up to date over time as you can update the specific areas which need up-gradations.",
+			"I": ""
+		},
+		{
+			"C":"Advanced",
+			"Q": "Props",
+			"A": "As we already know, the react components arrange the UI in the form of a tree where the parent component becomes the root and child components become branches and sub-branches. Now suppose parent component wants to send data to one of its deeply nested components.",
+			"I": ""
+		},
+		{
+			"C":"Advanced",
+			"Q": "React Component Lifecycle",
+			"A": "React provides various methods which notify when a certain stage in the lifecycle of a component occurs. These methods are called the lifecycle methods. ",
+			"I": ""
+		},{	
+			"C":"Advanced",
+			"Q": "Advantages of React Components",
+			"A": "Code Re-usability – A component-based approach makes your application development easier and faster. If you want to use a pre-existing functionality in your code, you can just put that code in yours instead of building it from scratch. It also allows your application architecture to stay up to date over time as you can update the specific areas which need up-gradations.",
+			"I": ""
+		},
+		{
+			"C":"Advanced",			
+			"Q": "Props",
+			"A": "As we already know, the react components arrange the UI in the form of a tree where the parent component becomes the root and child components become branches and sub-branches. Now suppose parent component wants to send data to one of its deeply nested components.",
+			"I": ""
+		},
+		{
+			"C":"Advanced",
+			"Q": "React Component Lifecycle",
+			"A": "React provides various methods which notify when a certain stage in the lifecycle of a component occurs. These methods are called the lifecycle methods. ",
+			"I": ""
+		},
+		{
+			"C":"Advanced",			
+			"Q": "Advantages of React Components",
+			"A": "Code Re-usability – A component-based approach makes your application development easier and faster. If you want to use a pre-existing functionality in your code, you can just put that code in yours instead of building it from scratch. It also allows your application architecture to stay up to date over time as you can update the specific areas which need up-gradations.",
+			"I": ""
+		},
+		{
+			"C":"Advanced",
+			"Q": "Props",
+			"A": "As we already know, the react components arrange the UI in the form of a tree where the parent component becomes the root and child components become branches and sub-branches. Now suppose parent component wants to send data to one of its deeply nested components.",
+			"I": ""
+		},
+		{
+			"C":"Advanced",
+			"Q": "React Component Lifecycle",
+			"A": "React provides various methods which notify when a certain stage in the lifecycle of a component occurs. These methods are called the lifecycle methods. ",
+			"I": ""
+		},
+		{
+			"C":"Redux",
+			"Q": "Advantages of React Components",
+			"A": "Code Re-usability – A component-based approach makes your application development easier and faster. If you want to use a pre-existing functionality in your code, you can just put that code in yours instead of building it from scratch. It also allows your application architecture to stay up to date over time as you can update the specific areas which need up-gradations.",
+			"I": ""
+		},
+		{
+			"C":"Redux",
+			"Q": "Props",
+			"A": "As we already know, the react components arrange the UI in the form of a tree where the parent component becomes the root and child components become branches and sub-branches. Now suppose parent component wants to send data to one of its deeply nested components.",
+			"I": ""
+		},
+		{
+			"C":"Redux",
+			"Q": "React Component Lifecycle",
+			"A": "React provides various methods which notify when a certain stage in the lifecycle of a component occurs. These methods are called the lifecycle methods. ",
+			"I": ""
+		},
+		{
+			"C":"Redux",
+			"Q": "Advantages of React Components",
+			"A": "Code Re-usability – A component-based approach makes your application development easier and faster. If you want to use a pre-existing functionality in your code, you can just put that code in yours instead of building it from scratch. It also allows your application architecture to stay up to date over time as you can update the specific areas which need up-gradations.",
+			"I": ""
+		},
+		{
+			"C":"Redux",
+			"Q": "Props",
+			"A": "As we already know, the react components arrange the UI in the form of a tree where the parent component becomes the root and child components become branches and sub-branches. Now suppose parent component wants to send data to one of its deeply nested components.",
+			"I": ""
+		},
+		{
+			"C":"Redux",
+			"Q": "React Component Lifecycle",
+			"A": "React provides various methods which notify when a certain stage in the lifecycle of a component occurs. These methods are called the lifecycle methods. ",
+			"I": ""
+		},
+		{
+			"C":"Redux",
+			"Q": "Advantages of React Components",
+			"A": "Code Re-usability – A component-based approach makes your application development easier and faster. If you want to use a pre-existing functionality in your code, you can just put that code in yours instead of building it from scratch. It also allows your application architecture to stay up to date over time as you can update the specific areas which need up-gradations.",
+			"I": ""
+		},
+		{
+			"C":"Redux",
+			"Q": "Props",
+			"A": "As we already know, the react components arrange the UI in the form of a tree where the parent component becomes the root and child components become branches and sub-branches. Now suppose parent component wants to send data to one of its deeply nested components.",
+			"I": ""
+		},
+		{
+			"C":"Redux",
+			"Q": "React Component Lifecycle",
+			"A": "React provides various methods which notify when a certain stage in the lifecycle of a component occurs. These methods are called the lifecycle methods. ",
+			"I": ""
+		}
+	],
+	"status": {
+		"code": 0,
+		"message": ""
+	}
+}

@@ -1,0 +1,491 @@
+{
+    "aboutUs": "At Arivohm, we a team of talented IT professionals with surmount knowledge believes our modern day techie's deserve better exposure - here we are providing questions and answers set will help and guide to next phase of your career.",
+    "appConfig": {
+        "appIcon": "https://image.flaticon.com/icons/svg/1/1968.svg",
+        "appName": "Arivohm ReactJs",
+        "bgColor": "#7788787",
+        "burgerMenu": {
+            "bgColor": "#689gyh",
+            "burgerIcon": "https://image.flaticon.com/icons/svg/1/1968.svg",
+            "fFamily": "fontFamily"
+        },
+        "fFamily": "fontfamily",
+        "hBgColor": "#hjgy",
+        "hBgImage": "http://www.endeev.com/wp-content/uploads/2017/12/react-js.png",
+        "hColor": "#76767",
+        "hIcon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png",
+        "hTitle": "ReactJs",
+        "viewContent": {
+            "bgColor": "#h86897",
+            "cardView": {
+                "bdrColor": "#hdjasas",
+                "bgColor": "#hjdadans"
+            },
+            "fFamily": "fontFamily"
+        }
+    },
+    "appData": {
+        "categories": [{
+            "data": [{
+                "ans": "A JavaScript library used for building reusable/composable UI components.",
+                "imp": "1",
+                "ques": "ReactJs"
+            }, {
+                "ans": "ReactJs mostly covers V in MVC(Modal-View-Controller)",
+                "imp": "1",
+                "ques": "Layer it covers in MVC"
+            }, {
+                "ans": "Yes, ReactJs is an Isomorphic application, since it can do rendering of HTML in both client side and server side",
+                "imp": "1",
+                "ques": "Is ReactJs an Isomorphic application"
+            }, {
+                "ans": "Major feature includes - JSX, Components, Free and Open source, Server side rendering and Asynchronous Functions",
+                "imp": "1",
+                "ques": "Features of ReactJs"
+            }, {
+                "ans": "JavaScript syntax extension / Javascript XML. JSX is an XML/HTML-like syntax used by React that extends ECMAScript so that XML/HTML-like text can co-exist with JavaScript/React code.",
+                "imp": "1",
+                "ques": "Feature - JSX"
+            }, {
+                "ans": "Faster - performs optimization while compiling code to Javascript, Type safe and easier and faster to write templates",
+                "imp": "1",
+                "ques": "Why - JSX"
+            }, {
+                "ans": "Components let you to split the UI into independent and reusable pieces. For Ex: In current app, each Question and Answer cards are <QandA> user defined component, which has been reused for each and every data from huge QA list. Again in <QandA>, <Question> is one component and <Answer> is another which would have their own behaviours.",
+                "imp": "1",
+                "ques": "Feature - Components"
+            }, {
+                "ans": "ReactJs is a facebook licenced Open sourced project. Maintained by Facebook,Instagram and a community of individual developers and corporations.",
+                "imp": "1",
+                "ques": "Feature - Free and Open source"
+            }, {
+                "ans": "React is best known as a client-side JavaScript framework, but it supports server side rendering as well for providing better SEO [Search Engine Optimization] and to load pages faster.",
+                "imp": "1",
+                "ques": "Feature - Server side rendering"
+            }, {
+                "ans": "Virtual DOM is a Javascript object and an abstraction of the HTML DOM. React creates a tree of custom objects representing a part of the DOM. For example, instead of creating an actual DIV element containing a UL element, it creates a React.div object that contains a React.ul object. It can manipulate these objects very quickly without actually touching the real DOM. While rendering, it will check with actual DOM and update wherever it is really required to update the actual DOM.",
+                "imp": "1",
+                "ques": "ReactJs Virtual DOM"
+            }, {
+                "ans": "Covers only the view layer of the app, hence you still need to choose some other technologies to get  a complete tooling set for development.",
+                "imp": "1",
+                "ques": "Limitations"
+            }, {
+                "ans": "HTML tags always use lowercase tag names <div>, while React components start with Uppercase <CompName/>",
+                "imp": "1",
+                "ques": "Naming Convention"
+            }, {
+                "ans": "React.Component is provided by React. It is an abstract base class, so it rarely makes sense to refer to React.Component directly. Instead, we will typically subclass it, and define at least a render() method. render() is mandatory function in class component.",
+                "imp": "1",
+                "ques": "Purpose of React.Component"
+            }],
+            "id": "243",
+            "image": "https://png.icons8.com/color/100/000000/google-scholar.png",
+            "title": "ReactJs"
+        }, {
+            "data": [{
+                "ans": "ReactJs is fully made up of components. Components are like Javascript functions. They accept inputs from parent component(called props) and return React elements describing what should appear on the screen.",
+                "imp": "1",
+                "ques": "What is Components? How it defines?"
+            }, {
+                "ans": "There are two main types of components - Functional and Class components.",
+                "imp": "1",
+                "ques": "Types of components"
+            }, {
+                "ans": "Also known as Stateless component, just a Javscript function, which takes props as an argument and return the element you want to render.",
+                "imp": "1",
+                "ques": "Functional Components"
+            }, {
+                "ans": "Proper component where data manipulations can be done with the help of state, all life cycle methods and user defined functions can be implemented and will return what need to rendered in DOM.",
+                "imp": "1",
+                "ques": "Class Components"
+            }, {
+                "ans": "It all depends on what functionality you want to do inside the component. If you want make any data manipulation, class components is the option. Else if simpler static elements alone required, functional components is the better option since it provides better performance than class components.",
+                "imp": "1",
+                "ques": "How do I decide what type of Component to use?"
+            }, {
+                "ans": "Whenever you can, specifically whenever you don't need state or the component lifecycle methods such as componentDidMount, componentWillMount, etc.",
+                "imp": "1",
+                "ques": "When should I use functional components?"
+            }, {
+                "ans": "Component need to be imported at parent components where it need to embedded. import ComponentName from 'componentPath'; - is the default syntax to import components.",
+                "imp": "1",
+                "ques": "Importing of components"
+            }, {
+                "ans": "An application's UI can be split up into smaller components where each component has its own code, structure, and API.",
+                "imp": "1",
+                "ques": "Components and UI relation"
+            }, {
+                "ans": "Higher Order Component is an advanced way of reusing the component logic. Basically, it’s a pattern that is derived from React’s compositional nature. HOC are custom components which wraps another component within it. They can accept any dynamically provided child component but they won’t modify or copy any behavior from their input components.",
+                "imp": "1",
+                "ques": "What are Higher Order Components(HOC)?"
+            }],
+            "id": "289",
+            "image": "https://png.icons8.com/flat_round/64/000000/--digging-machine.png",
+            "title": "Components"
+        }, {
+            "data": [{
+                "ans": "The lifecycle methods are various methods which are invoked at different phases of the lifecycle of a component.",
+                "imp": "1",
+                "ques": "Life cycle methods in ReactJs"
+            }, {
+                "ans": "will prefixed methods happens right before something happens whereas did prefixd methods happens right after something happens.",
+                "imp": "1",
+                "ques": "will and did Methods"
+            }, {
+                "ans": "Methods being called when an instance of a component is created and inserted into DOM",
+                "imp": "1",
+                "ques": "Life cycle - Mounting methods"
+            }, {
+                "ans": "constructor(), componentWillMount(), render(), componentDidMount()",
+                "imp": "1",
+                "ques": "Life cycle - Mounting methods List"
+            }, {
+                "ans": "Methods are called when a component is being re-rendered and can be caused by changes to state and props.",
+                "imp": "1",
+                "ques": "Life cycle - Updating methods"
+            }, {
+                "ans": "componentWillReceiveProps(), shouldComponentUpdate(), componentWillUpdate(), render(), componentDidUpdate()",
+                "imp": "1",
+                "ques": "Life cycle - Updating methods list"
+            }, {
+                "ans": "Method being called when component is removed from DOM - componentWillUnmount()",
+                "imp": "1",
+                "ques": "Life cycle - Unmounting methods"
+            }, {
+                "ans": "Method is called when there is an error during rendering, either in a lifecycle method or in the constructor of any child component.",
+                "imp": "1",
+                "ques": "Life cycle - Error Handling Method"
+            }, {
+                "ans": "componentDidCatch(error, info) - catches JavaScript errors anywhere in their child component tree, log those errors, and display a fallback UI instead of the component tree that crashed.",
+                "imp": "1",
+                "ques": "LIfe cycle - Error Handling Method"
+            }, {
+                "ans": "Each component provides other APIs such as setState() and forceUpdate().",
+                "imp": "1",
+                "ques": "Other APIs"
+            }, {
+                "ans": "All the Class based components will set up the initial state in the constructor, which can be changed later using setState.",
+                "imp": "1",
+                "ques": "Life cycle - constructor()"
+            }, {
+                "ans": "It will be executed just before the React component is about to mount on the DOM. All the things which you want to before a component mounts has to be defined here.",
+                "imp": "1",
+                "ques": "componentWillMount()"
+            }, {
+                "ans": "It mounts the component onto the browser. Since it is pure, it will give same output everytime the same input is provided.",
+                "imp": "1",
+                "ques": "render()"
+            }, {
+                "ans": "It will be executed after the component did mount on the dom. This method is executed once in a lifecycle of a component and after the first render.",
+                "imp": "1",
+                "ques": "componentDidMount()"
+            }, {
+                "ans": "should the Component be Updated? - tells the React that when the component receives new props or state is being updated, should React re-render or it can skip rendering? - returns either true or false.",
+                "imp": "1",
+                "ques": "shouldComponentUpdate()"
+            }, {
+                "ans": "componentWillUpdate() is executed only after the shouldComponentUpdate returns true. This method is only used to do the preparation for the upcoming render, similar to componentWillMount or constructor.",
+                "imp": "1",
+                "ques": "componentWillUpdate()"
+            }, {
+                "ans": "componentDidUpdate() is executed when the new updated component has been updated in the DOM.",
+                "imp": "1",
+                "ques": "componentDidUpdate()"
+            }, {
+                "ans": "Gets executed when the props/state have changed and is not first render",
+                "imp": "1",
+                "ques": "componentWillReceiveProps()"
+            }, {
+                "ans": "Last method in lifecycle. This is executed just before the component gets removed from the DOM.",
+                "imp": "1",
+                "ques": "componentWillUnmount()"
+            }, {
+                "ans": "This method do all the cleanups related to the component. For example: Clearing the cookies related to login, while unmounting the main component.",
+                "imp": "1",
+                "ques": "Usage - componentWillUnmount()"
+            }, {
+                "ans": "Props are simmiler to arguments for pure functions argument. Props are immutable - read only and are passsed from parent component which invokes component. Provides the way to pass the data from parent component to child components.",
+                "imp": "1",
+                "ques": "What is Props?"
+            }, {
+                "ans": "All the props from parent component can be accessible with this.props.",
+                "imp": "1",
+                "ques": "How to access props in child components?"
+            }, {
+                "ans": "The core of every react component is its 'State', an object that determines how that component renders and behaves. And it allows you to create component which are dynamic and interactive.",
+                "imp": "1",
+                "ques": "What is State?"
+            }, {
+                "ans": "Initially state will be created as this.state={statename:value} inside constructor. Further the state will be update using this.setState({stateName:updatedValue}).",
+                "imp": "1",
+                "ques": "How to create and update the state?"
+            }],
+            "id": "243",
+            "image": "https://png.icons8.com/flat_round/64/000000/microphone.png",
+            "title": "Life Cycle"
+        }, {
+            "data": [{
+                "ans": "Redux is an open-source JavaScript library designed for managing application state. It is primarily (but not mandatorily) used together with React or Angular for building user interfaces.",
+                "imp": "1",
+                "ques": "What is Redux?"
+            }, {
+                "ans": "Redux is inspired by Facebook’s Flux and influenced by functional programming language Elm.",
+                "imp": "1",
+                "ques": "Origin of Redux"
+            }, {
+                "ans": "It helps developers to write applications that behave consistently, run in client,server and native environtments. It provides  improvements to the developer experience, like live code editing combined with a time traveling debugger.",
+                "imp": "1",
+                "ques": "Redux for Developer"
+            }, {
+                "ans": "It can be used with React or with other view libraries. The Redux file size is small, close to 2kB which includes dependencies as well.",
+                "imp": "1",
+                "ques": "Redux integration"
+            }, {
+                "ans": "Actions, Reducers and Store",
+                "imp": "1",
+                "ques": "Major concepts involved in Data handling in Redux"
+            }, {
+                "ans": "Actions are payloads of information that send data from your application to your store. They are the only source of information for the store. You send them to the store using store.dispatch().",
+                "imp": "1",
+                "ques": "What are Actions? How to use it?"
+            }, {
+                "ans": "Actions are plain JavaScript objects. Actions must have a type property that indicates the type of action being performed. Types should typically be defined as string constants. Example: {type: USER_DEFINED_ACTION_NAME, text: 'Data need to stored'}",
+                "imp": "1",
+                "ques": "How to define Actions?"
+            }, {
+                "ans": "Action creators are the functions that creates actions.In Redux, action creators simply return an action as like: function userDefinedActionCreator(text) { return { type: ACTION_NAME, text } }",
+                "imp": "1",
+                "ques": "What are Action creators?"
+            }, {
+                "ans": "To initiate a dispatch, we need to pass the action creater result to the dispatch() function. For Example : dispatch( userDefinedActionCreator(text) ). Alternatively, you can create a bound action creator that automatically dispatches: const boundUDFunction = text => dispatch(udFunction(text)); Now we can call them directly using boundUDFunction( text );",
+                "imp": "1",
+                "ques": "How do dispatch actions?"
+            }, {
+                "ans": "bindActionCreators() can be used to automatically bind many action creators to a dispatch() function.",
+                "imp": "1",
+                "ques": "How to bind multiple action creators to dispatch() ?"
+            }, {
+                "ans": "Reducers specify how the application's state changes in response to actions sent to the store. That actions only describe the fact that something happened, but don't describe how the application's state changes.",
+                "imp": "1",
+                "ques": "Reducers"
+            }, {
+                "ans": "The reducer is a pure function that takes the previous state and an action, and returns the next state. (previousState, action) => newState.",
+                "imp": "1",
+                "ques": "How to write a reducer?"
+            }, {
+                "ans": "- Mutate its arguments, - Perform side effects like API calls and routing transitions, - Call non-pure functions, e.g. Date.now() or Math.random()",
+                "imp": "1",
+                "ques": "Things which we should never do inside a reducer"
+            }, {
+                "ans": "We don't mutate the state. We create a copy with Object.assign(). Object.assign({}, state, { filter: action.filter }). We return the previous state in the default case. It's important to return the previous state for any unknown action.",
+                "imp": "1",
+                "ques": "Core points"
+            }, {
+                "ans": " Object.assign() is a part of ES6, and is not supported by older browsers. To support them, you will need to either use a polyfill, a Babel plugin, or a helper from another library like _.assign().",
+                "imp": "1",
+                "ques": "Object.assign"
+            }, {
+                "ans": "Redux provides a utility called combineReducers(), which does function that calls all reducers with the slices of state selected according to their keys, and combining their results into a single object again. ",
+                "imp": "1",
+                "ques": "Purpose of combineReducers()"
+            }, {
+                "ans": "CombineReducers expects an object, we can put all top-level reducers into a separate file, export each reducer function, and use import * as reducers to get them as an object with their names as the keys.",
+                "imp": "1",
+                "ques": "Usage of combineReducers"
+            }, {
+                "ans": "Redux architecture follows Unidirectional data flow.",
+                "imp": "1",
+                "ques": "Data Flow - Architecture"
+            }, {
+                "ans": "1. You call store.dispatch(action), 2.The Redux store calls the reducer function you gave it, 3. The root reducer may combine the output of multiple reducers into a single state tree, 4. The Redux store saves the complete state tree returned by the root reducer.",
+                "imp": "1",
+                "ques": "The Data Life cycle in Redux"
+            }, {
+                "ans": "Store is the object that holds the application state and provides a few helper methods to access the state, dispatch actions and register listeners. The entire state is represented by a single store. Any action returns a new state via reducers. That makes Redux very simple and predictable.",
+                "imp": "1",
+                "ques": "What is Store in Redux?"
+            }, {
+                "ans": "import { createStore } from ‘redux’; let store = createStore(rootReducer); let authInfo = {username: ‘alex’, password: ‘123456’}; store.dispatch(authUser(authInfo));",
+                "imp": "1",
+                "ques": "Example for Store"
+            }, {
+                "ans": "The only way to change the state is to emit an action, an object describing what happened. This ensures that neither the views nor the network callbacks will ever write directly to the state.",
+                "imp": "1",
+                "ques": "How is state changed in Redux?"
+            }, {
+                "ans": "This dispatches an action. It is the only way to update the application state. const action = { type: 'SUBTRACT', payload: { value: 10 },}; store.dispatch(action);",
+                "imp": "1",
+                "ques": "dispatch()"
+            }, {
+                "ans": " - Predictability of outcome, - Maintainability, - Organization, - Server rendering, - Developer tools, - Community and ecosystem and Ease of testing",
+                "imp": "1",
+                "ques": "Benefits Of Redux"
+            }],
+            "id": 124,
+            "image": "https://png.icons8.com/flat_round/64/000000/--oxygen-mask.png",
+            "title": "Redux"
+        }, {
+            "data": [{
+                "ans": "React Router is the  standard routing library for React. When you need to navigate through a React application with multiple views, you’ll need a router to manage the URLs. React Router takes care of that, keeping your application UI and the URL in sync.",
+                "imp": "1",
+                "ques": "What is React router?"
+            }, {
+                "ans": "React-router-dom provides <BrowserRouter> and <HashRouter> routers. Both of these will create a specialized history object for you. Generally , you should use a <BrowserRouter> if you have a server that responds to requests and a <HashRouter> if you are using a static file server.",
+                "imp": "1",
+                "ques": "Use of React-router-dom ?"
+            }, {
+                "ans": "A <Router> that uses the HTML5 history API (pushState, replaceState and the popstate event) to keep your UI in sync with the URL. <BrowserRouter basename='/calendar'/> <Link to='/today'/> ",
+                "imp": "1",
+                "ques": "Explain <BrowserRouter>"
+            }, {
+                "ans": "A <Router> that uses the hash portion of the URL (i.e. window.location.hash) to keep your UI in sync with the URL.<HashRouter basename='/calendar'/><Link to='/today'/> ",
+                "imp": "1",
+                "ques": "<HashRouter>"
+            }, {
+                "ans": "Provides declarative, accessible navigation around your application. <Link to='/courses?sort=name'/>",
+                "imp": "1",
+                "ques": "What is <Link>?"
+            }, {
+                "ans": "<Provider /> is the higher-order component provided by React Redux that lets you bind Redux to React. We will wrap <Router /> in <Provider /> so that route handlers can get access to the store. <Provider store={store}><Router><Route path='/' component={App} /></Router></Provider>",
+                "imp": "1",
+                "ques": "Purpose of Provider"
+            }, {
+                "ans": "- Browser specific routing components live in react-router-dom instead of react-router so imports need to be changed to be from react-router-dom package. - Introducing new components such as BrowserRouter and HashRouter for specific use cases - No more use of {props.children} for nesting components in v4 React Router.",
+                "imp": "1",
+                "ques": "React Router v4 vs React Router v3"
+            }, {
+                "ans": "React Router v4 provides a history object that exposes a simple API with different implementations (HTML5 history API for dom, legacy hash history for dom, in-memory history for react-native) to manage/manipulate browser history. history.push('/my-path'); history.replace('/my-path')",
+                "imp": "1",
+                "ques": "What is Browser History?"
+            }, {
+                "ans": "Following are values/function needs to be send to BrowserRouter: basename, getUserConfirmation, forceRefresh, keyLength and children.",
+                "imp": "1",
+                "ques": "Props used in BrowserRouter"
+            }, {
+                "ans": "The base URL for all locations. If your app is served from a sub-directory on your server, you’ll want to set this to the sub-directory. A properly formatted basename should have a leading slash, but no trailing slash.",
+                "imp": "1",
+                "ques": "Purpose of basename"
+            }, {
+                "ans": "A function to use to confirm navigation. Defaults to using window.confirm.",
+                "imp": "1",
+                "ques": "Purpose of getUserConfirmation"
+            }, {
+                "ans": "Page will be refresh for each page navigation if it is set to true.",
+                "imp": "1",
+                "ques": "Purpose of forceRefresh"
+            }, {
+                "ans": "A special version of the <Link> that will add styling attributes to the rendered element when it matches the current URL.",
+                "imp": "1",
+                "ques": "What is NavLink?"
+            }, {
+                "ans": "A <Router> that keeps the history of your “URL” in memory (does not read or write to the address bar). Useful in tests and non-browser environments like React Native.",
+                "imp": "1",
+                "ques": "What is <MemoryRouter>? How it is used?"
+            }, {
+                "ans": "Rendering a <Redirect> will navigate to a new location. The new location will override the current location in the history stack, like server-side redirects (HTTP 3xx) do.",
+                "imp": "1",
+                "ques": "Redirect"
+            }, {
+                "ans": "1. <Route component> 2. <Route render> 3. <Route children>",
+                "imp": "1",
+                "ques": "What are all the different ways to render components with a <Route>?"
+            }, {
+                "ans": "- match, - location, - history",
+                "imp": "1",
+                "ques": "What are all the props used in Route?"
+            }, {
+                "ans": "A <Router> that never changes location. This can be useful in server-side rendering scenarios when the user isn’t actually clicking around, so the location never actually changes.",
+                "imp": "1",
+                "ques": "What is StaticRouter?"
+            }, {
+                "ans": "We can get access to the history object's properties and closest <Route>'s match via the withRouter higher-order component. It will pass updated match, location, and history props to the wrapped component whenever it renders.",
+                "imp": "1",
+                "ques": "Usage of withRouter?"
+            }, {
+                "ans": "A Router is used to define multiple routes and when a user types a specific URL, if this URL matches the path of any ‘route’ defined inside the router, then the user is redirected to that particular route. So basically, we need to add a Router library to our app that allows creating multiple routes with each leading to us a unique view.",
+                "imp": "1",
+                "ques": "Why do we need a Router in React?"
+            }],
+            "id": 125,
+            "image": "https://png.icons8.com/flat_round/64/000000/google-mobile.png",
+            "title": "Router"
+        }, {
+            "data": [{
+                "ans": "Arrow functions are more of brief syntax for writing the function expression. They are also called ‘fat arrow‘ (=>) the functions. These functions allow to bind the context of the components properly since in ES6 auto binding is not available by default. Arrow functions are mostly useful while working with the higher order functions. Usage will be like  <Component onChange={ (e) => this.handleOnChange(e) } />.",
+                "imp": "1",
+                "ques": "What is arrow function in React? How is it used?"
+            }, {
+                "ans": "In React, events are the triggered reactions to specific actions like mouse hover, mouse click, key press, etc. Handling these events are similar to handling events in DOM elements.",
+                "imp": "1",
+                "ques": "What is an event in React?"
+            }, {
+                "ans": "In React, events are named using camel case instead of just using the lowercase and are passed as functions instead of strings.",
+                "imp": "1",
+                "ques": "Syntactical difference in events"
+            }, {
+                "ans": "Refs is the short hand for References in React. An attribute which helps to store a reference to a particular React element or component, which will be returned by the components render configuration function. It is used to return references to a particular element or component returned by render().",
+                "imp": "1",
+                "ques": "What does it mean by refs in ReactJs?"
+            }, {
+                "ans": "",
+                "imp": "1",
+                "ques": ""
+            }, {
+                "ans": "",
+                "imp": "1",
+                "ques": ""
+            }, {
+                "ans": "",
+                "imp": "1",
+                "ques": ""
+            }, {
+                "ans": "",
+                "imp": "1",
+                "ques": ""
+            }, {
+                "ans": "",
+                "imp": "1",
+                "ques": ""
+            }, {
+                "ans": "",
+                "imp": "1",
+                "ques": ""
+            }, {
+                "ans": "",
+                "imp": "1",
+                "ques": ""
+            }, {
+                "ans": "",
+                "imp": "1",
+                "ques": ""
+            }, {
+                "ans": "",
+                "imp": "1",
+                "ques": ""
+            }, {
+                "ans": "",
+                "imp": "1",
+                "ques": ""
+            }, {
+                "ans": "",
+                "imp": "1",
+                "ques": ""
+            }, {
+                "ans": "",
+                "imp": "1",
+                "ques": ""
+            }],
+            "id": 128,
+            "image": "https://png.icons8.com/flat_round/64/000000/flag.png",
+            "title": "Others"
+        }]
+    },
+    "lastUpdate": {
+        "dateTime": 1520493756434
+    },
+    "status": {
+        "code": 0,
+        "message": ""
+    }
+}
